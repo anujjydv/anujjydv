@@ -28,9 +28,12 @@
 ### 🧰 Tech Stack
 **C++** | **JavaScript** | **Python** | **React.js** | **Node.js** | **Express.js** | **MongoDB** | **Tailwind CSS**
 
+
 ### 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anujjydv&show_icons=true&theme=radical&hide_border=true" alt="Anuj's GitHub stats" />
+
+[![Anuj's GitHub stats](https://github-readme-stats.vercel.app/api?username=anujjydv&show_icons=true&theme=radical&hide_border=true)](https://github.com/anujjydv)
+
 </div>
 
 ---
